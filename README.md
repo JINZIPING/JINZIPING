@@ -1,10 +1,10 @@
-## Hi there, I'm Jasper Jin 👋
+# Hi, I'm Jasper Jin 👋
 
-Ex-mechanical engineer, now on my second Master's — this time in Computing at NUS.  
-Exploring backend systems, databases, and AI-powered infrastructure.
+Ex-mechanical engineer, now diving deep into computing.  
+Currently pursuing second Master's at National University of Singapore, focusing on backend systems and AI applications.
 
 ⚙️ C++ / Python / Go | Linux / Git / Docker  
-🧠 Into OS internals, system design, and performance tuning  
+🧠 Into OS internals, databases, and system design  
 
 <!--
 **JINZIPING/JINZIPING** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

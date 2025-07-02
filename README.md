@@ -2,7 +2,7 @@
 
 Ex-mechanical engineer, now diving deep into computing.  
 
-⚙️ C++ / Python / Go | K8s / PostGres / Kafka
+⚙️ C++ / Python / Go | K8s / PostGres / Kafka  
 🧠 Into OS internals, databases, and system design  
 
 

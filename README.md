@@ -1,9 +1,9 @@
-# Hi, I'm Jasper Jin 👋
+# Hi, This is Jasper 👋
 
-Ex-mechanical engineer, now diving deep into computing.  
+Ex-automotive architecture engineer, now diving deep into computing.  
 
-⚙️ C++ / Python / Go | K8s / PostGres / Kafka  
-🧠 Into OS internals, databases, and system design  
+⚙️ C++ / Python / Go | K8s / PostgreSQL / Kafka / Redis
+🧠 Into AI infra, databases, and system design  
 
 personal projects:  
 [go-path-value-trie](https://github.com/JINZIPING/go-path-value-trie)  

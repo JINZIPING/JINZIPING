@@ -3,7 +3,7 @@
 Ex-automotive architecture engineer, now diving deep into computing.  
 
 ⚙️ C++ / Python / Go | K8s / PostgreSQL / Kafka / Redis
-🧠 Into AI infra, databases, and system design  
+🧠 Into Backend, databases, dstributed system  
 
 personal projects:  
 [go-path-value-trie](https://github.com/JINZIPING/go-path-value-trie)  

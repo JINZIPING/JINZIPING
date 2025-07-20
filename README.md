@@ -2,8 +2,7 @@
 
 Ex-automotive architecture engineer, now diving deep into computing.  
 
-⚙️ C++ / Python / Go | K8s / PostgreSQL / Kafka / Redis
-
+⚙️ C++ / Python / Go | K8s / PostgreSQL / Kafka / Redis  
 🧠 Into Backend, databases, dstributed system  
 
 personal projects:  

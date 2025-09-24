@@ -5,7 +5,10 @@ Ex-automotive architecture engineer, now diving deep into computing.
 ⚙️ C++ / Python / Go | K8s / PostgreSQL / Kafka / Redis  
 🧠 Into Backend, databases, dstributed system  
 
-personal projects:  
+## lab solving
+
+
+## personal projects:  
 [go-path-value-trie](https://github.com/JINZIPING/go-path-value-trie)  
 🚀 An open-source Trie data structure for efficient prefix search and recall, ideal for search engine applications. Supports fast insertion, lookup, and prefix matching for large-scale text processing.
 <!--

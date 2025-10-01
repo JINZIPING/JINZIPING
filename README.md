@@ -11,6 +11,10 @@ Ex-automotive architecture engineer, now diving deep into computing.
 ## personal projects:  
 [go-path-value-trie](https://github.com/JINZIPING/go-path-value-trie)  
 🚀 An open-source Trie data structure for efficient prefix search and recall, ideal for search engine applications. Supports fast insertion, lookup, and prefix matching for large-scale text processing.
+
+## team projects:
+[MyTrail](https://github.com/HowdyBunny/MyTrailApp)
+
 <!--
 **JINZIPING/JINZIPING** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

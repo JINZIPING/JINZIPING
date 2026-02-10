@@ -6,10 +6,6 @@
 - 📫 How to reach me **mejasperj@outlook.com**
 
 
-## lab solving
-[CSAPP Labs](https://github.com/JINZIPING/CSAPP-Labs)
-📝 CMU CS15213 Course Labs personal reference answer (excluding the labs framework)
-
 ## personal projects:  
 [go-path-value-trie](https://github.com/JINZIPING/go-path-value-trie)  
 🚀 An open-source Trie data structure for efficient prefix search and recall, ideal for search engine applications. Supports fast insertion, lookup, and prefix matching for large-scale text processing.

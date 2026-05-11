@@ -42,6 +42,7 @@ My personal development environment configuration for terminal tooling, editor s
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/uv-2F80ED?style=for-the-badge&logo=python&logoColor=white" alt="uv" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
@@ -50,6 +51,9 @@ My personal development environment configuration for terminal tooling, editor s
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" alt="LangGraph" />
   <img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge" alt="LangSmith" />
+  <img src="https://img.shields.io/badge/RAG-6E40C9?style=for-the-badge" alt="RAG" />
+  <img src="https://img.shields.io/badge/MCP-0969DA?style=for-the-badge" alt="MCP" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-7C3AED?style=for-the-badge" alt="Prompt Engineering" />
   <img src="https://img.shields.io/badge/Codex-111111?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
   <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge" alt="Claude Code" />
 </p>

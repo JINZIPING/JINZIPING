@@ -32,16 +32,20 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,python,js,ts,react,nodejs,html,css" />
-  <img src="https://skillicons.dev/icons?i=docker,git,githubactions,postgres,mongodb,linux,azure,figma" />
+  <img src="https://skillicons.dev/icons?i=go,python,c,cpp" />
+  <img src="https://img.shields.io/badge/uv-2F80ED?style=for-the-badge&logo=python&logoColor=white" alt="uv" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=docker,git,githubactions,postgres,mongodb,linux" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge" alt="LangSmith" />
+  <img src="https://img.shields.io/badge/Codex-111111?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge" alt="Claude Code" />
 </p>
 
 ## ⚙️ Personal Dev Config
 
 [dotfiles](https://github.com/JINZIPING/dotfiles)  
 My personal development environment configuration for terminal tooling, editor setup, and workflow customization.
-
-<hr>
 
 ## 🐍 My Contributions
 

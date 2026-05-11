@@ -27,6 +27,11 @@
 [kokoro_inference](https://github.com/JINZIPING/kokoro_inference)  
 **Voice AI Optimization**: A Kokoro-82M inference fork focused on reducing PyTorch weight normalization overhead while keeping model behavior compatible with upstream.
 
+## ⚙️ Personal Dev Config
+
+[dotfiles](https://github.com/JINZIPING/dotfiles)  
+My personal development environment configuration for terminal tooling, editor setup, and workflow customization.
+
 ## 🛠️ Languages and Tools
 
 <br>
@@ -48,11 +53,6 @@
   <img src="https://img.shields.io/badge/Codex-111111?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
   <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge" alt="Claude Code" />
 </p>
-
-## ⚙️ Personal Dev Config
-
-[dotfiles](https://github.com/JINZIPING/dotfiles)  
-My personal development environment configuration for terminal tooling, editor setup, and workflow customization.
 
 ## 🐍 My Contributions
 

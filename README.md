@@ -6,16 +6,20 @@
 - 📫 How to reach me **mejasperj@outlook.com**
 
 
-## personal projects:  
+## featured work
 [go-path-value-trie](https://github.com/JINZIPING/go-path-value-trie)  
-🚀 An open-source Trie data structure for efficient prefix search and recall, ideal for search engine applications. Supports fast insertion, lookup, and prefix matching for large-scale text processing.
+An open-source Trie data structure for fast prefix search, lookup, and recall in large-scale text processing.
 
-## team projects:
-[MyTrail](https://github.com/HowdyBunny/MyTrailApp)
-🏃 A intelligent trail app that generates diverse routes and records your exploration, designed for newcomers and residents in Singapore who enjoy running, hiking, or brisk walking.
+## 🐍 My Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JINZIPING/JINZIPING/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JINZIPING/JINZIPING/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JINZIPING/JINZIPING/output/github-contribution-grid-snake.svg">
 </picture>
+
+<br>
+
+<div align="center">
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=JINZIPING&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Jasper's Most Used Languages" />
+</div>

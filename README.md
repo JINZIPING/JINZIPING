@@ -5,11 +5,11 @@
   <img src="https://komarev.com/ghpvc/?username=JINZIPING&style=flat&color=0969da&label=Profile%20views" alt="Profile views" />
 </div>
 
+- 📄 Online CV [self.so/jin-ziping](https://www.self.so/jin-ziping)
+
 - 🌱 Currently focused on **Applied AI, Agentic AI, Generative Recommendation Systems, and Voice AI**
 
 - 📫 How to reach me **mejasperj@outlook.com** | **+65 98680717** | **+86 13530730706**
-
-- 📄 Online CV [self.so/jin-ziping](https://www.self.so/jin-ziping)
 
 - ⚡ Fun fact: AGI admirer who likes thinking from first principles, joining hackathons, playing basketball, and scuba diving.
 

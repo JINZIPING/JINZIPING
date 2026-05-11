@@ -8,7 +8,13 @@
 
 ## featured work
 [go-path-value-trie](https://github.com/JINZIPING/go-path-value-trie)  
-An open-source Trie data structure for fast prefix search, lookup, and recall in large-scale text processing.
+A Golang data structure that implements a generic trie for high-speed prefix recall, autocomplete, and ranked search suggestions, with custom values stored along each path.
+
+[DNA-DailyNewsAgent](https://github.com/JINZIPING/DNA-DailyNewsAgent)  
+An AI-powered daily news agent for collecting, organizing, and summarizing news into a concise daily briefing.
+
+[FinGuard_Agent](https://github.com/JINZIPING/FinGuard_Agent)  
+An AI fraud and portfolio risk investigation system with a React analyst UI, FastAPI services, and LangGraph multi-agent analysis.
 
 ## 🐍 My Contributions
 
@@ -21,5 +27,5 @@ An open-source Trie data structure for fast prefix search, lookup, and recall in
 <br>
 
 <div align="center">
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=JINZIPING&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Jasper's Most Used Languages" />
+  <img width="390" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JINZIPING&theme=transparent" alt="Jasper's Most Used Languages" />
 </div>

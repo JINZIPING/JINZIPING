@@ -1,9 +1,13 @@
-<h1 align="center">Hi 👋, This is Jasper</h1>
-<h3 align="center">Ex-automotive architecture engineer, now diving deep into computing.</h3>
+<h1 align="center">Hi 👋, I'm Jasper</h1>
+<h3 align="center">Curious builder happily diving into AI technology and agentic systems.</h3>
 
-- 🌱 I’m currently learning **Applied AI, Agentic AI, Generative Rec**
+- 🌱 Currently focused on **Applied AI, Agentic AI, and Generative Recommendation Systems**
 
 - 📫 How to reach me **mejasperj@outlook.com**
+
+- 📄 Online CV [self.so/jin-ziping](https://www.self.so/jin-ziping)
+
+- ⚡ Fun fact: AGI admirer who likes thinking from first principles, joining hackathons, playing basketball, and scuba diving.
 
 
 ## featured work

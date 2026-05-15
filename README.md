@@ -7,7 +7,7 @@
 
 - 📄 Online CV [self.so/jin-ziping](https://www.self.so/jin-ziping)
 
-- 🌱 Currently focused on **Applied AI, Agentic AI, Generative Recommendation Systems, and Voice AI**
+- 🌱 Currently focused on **Backend, Agentic AI, Generative Recommendation Systems, and Voice AI**
 
 - 📫 How to reach me **mejasperj@outlook.com** | **+65 98680717** | **+86 13530730706**
 

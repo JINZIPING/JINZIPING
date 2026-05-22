@@ -18,14 +18,14 @@
 [go-path-value-trie](https://github.com/JINZIPING/go-path-value-trie)  
 **Data Structure**: A Golang generic trie for high-speed prefix recall, autocomplete, and ranked search suggestions, with custom values stored along each path.
 
+[kokoro_inference](https://github.com/JINZIPING/kokoro_inference)  
+**Voice AI Optimization**: A Kokoro-82M inference fork focused on reducing PyTorch weight normalization overhead while keeping model behavior compatible with upstream.
+
 [DNA-DailyNewsAgent](https://github.com/JINZIPING/DNA-DailyNewsAgent)  
 **AI Agent**: Collects, organizes, and summarizes news into a concise daily briefing.
 
 [FinGuard_Agent](https://github.com/JINZIPING/FinGuard_Agent)  
 **Multi-Agent System**: A team project building an AI fraud and portfolio risk investigation system with a React analyst UI, FastAPI services, and LangGraph multi-agent analysis.
-
-[kokoro_inference](https://github.com/JINZIPING/kokoro_inference)  
-**Voice AI Optimization**: A Kokoro-82M inference fork focused on reducing PyTorch weight normalization overhead while keeping model behavior compatible with upstream.
 
 ## ⚙️ Personal Dev Config
 

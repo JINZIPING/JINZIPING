@@ -5,13 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=JINZIPING&style=flat&color=0969da&label=Profile%20views" alt="Profile views" />
 </div>
 
-- 📄 LinkedIn [linkedin.com/in/jinziping](https://www.linkedin.com/in/jinziping)
-
-- 🌱 Currently focused on **Backend, Agentic AI, Generative Recommendation Systems, and Voice AI**
-
-- 📫 How to reach me **mejasperj@outlook.com** | **+65 98680717** | **+86 13530730706**
-
-- ⚡ Fun fact: AGI admirer who likes thinking from first principles, joining hackathons, playing basketball, and scuba diving.
+- 📫 [LinkedIn](https://www.linkedin.com/in/jinziping) | **mejasperj@outlook.com** | WhatsApp: **+65 98680717**
 
 
 ## 💼 Internship Experience

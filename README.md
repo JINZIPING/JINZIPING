@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jasper</h1>
-<h3 align="center">Curious builder happily diving into AI technology and agentic systems.</h3>
+<h3 align="center">Tinkering with AI agents, backend systems, and ideas that should already exist.</h3>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=JINZIPING&style=flat&color=0969da&label=Profile%20views" alt="Profile views" />
 </div>
 
-- 📄 Online CV [self.so/jin-ziping](https://www.self.so/jin-ziping)
+- 📄 LinkedIn [linkedin.com/in/jinziping](https://www.linkedin.com/in/jinziping)
 
 - 🌱 Currently focused on **Backend, Agentic AI, Generative Recommendation Systems, and Voice AI**
 
@@ -13,6 +13,17 @@
 
 - ⚡ Fun fact: AGI admirer who likes thinking from first principles, joining hackathons, playing basketball, and scuba diving.
 
+
+## 💼 Internship Experience
+
+- Venture Corp - AI Engineer Intern, 3 months
+- Huawei Singapore - Generative Recommendation Algorithm Intern, 4 months
+- TapTap - AI Backend Engineer Intern, 5 months
+
+## 💻 Work Experience
+
+- Huawei - Software Development Engineer, 1 year 3 months
+- BYD - Software Development Engineer, 6 months
 
 ## 🧩 Public Work
 [go-path-value-trie](https://github.com/JINZIPING/go-path-value-trie)  

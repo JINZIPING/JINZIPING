@@ -10,7 +10,7 @@
 
 ## 💼 Internship Experience
 
-- Venture Corp - AI Engineer Intern, 3 months
+- Venture Corp - AI Engineer Intern, present
 - Huawei Singapore - Generative Recommendation Algorithm Intern, 4 months
 - TapTap - AI Backend Engineer Intern, 5 months
 

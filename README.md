@@ -4,8 +4,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=JINZIPING&style=flat&color=0969da&label=Profile%20views" alt="Profile views" />
 </div>
-
-- [LinkedIn](https://www.linkedin.com/in/jinziping) | **mejasperj@outlook.com** | WhatsApp: **+65 98680717**
+[LinkedIn](https://www.linkedin.com/in/jinziping) | **mejasperj@outlook.com** | WhatsApp: **+65 98680717**
 
 
 ## 💼 Internship Experience

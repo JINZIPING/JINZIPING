@@ -7,17 +7,17 @@
 
 [LinkedIn](https://www.linkedin.com/in/jinziping) | **mejasperj@outlook.com**
 
+## 💻 Work Experience
+
+- Garena - AI Engineer, present
+- Huawei - Software Development Engineer, 1 year 3 months
+- BYD - Software Development Engineer, 6 months
 
 ## 💼 Internship Experience
 
-- Venture Corp - AI Engineer Intern, present
+- Venture Corp - AI Engineer Intern, 6 months
 - Huawei Singapore - Generative Recommendation Algorithm Intern, 4 months
 - TapTap - AI Backend Engineer Intern, 5 months
-
-## 💻 Work Experience
-
-- Huawei - Software Development Engineer, 1 year 3 months
-- BYD - Software Development Engineer, 6 months
 
 ## 🧩 Public Work
 [go-path-value-trie](https://github.com/JINZIPING/go-path-value-trie)  
